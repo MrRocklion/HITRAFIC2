@@ -1,0 +1,15 @@
+.home-t{
+    width: 100%;
+}
+.home-t-th{
+    text-align: left;
+}
+.h-controler-select{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+}
+.leaflet-container{
+    width: 100%;
+    height: 60vh;
+}
